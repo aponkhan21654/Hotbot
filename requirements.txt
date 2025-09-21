@@ -1,5 +1,0 @@
-python-telegram-bot==20.7
-openpyxl==3.1.2
-aiohttp==3.9.1
-sqlite3
-python-dotenv==1.0.0
